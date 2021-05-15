@@ -1,0 +1,12 @@
+pynput官方文档：
+https://pypi.org/project/pynput/
+requests中文版
+http://2.python-requests.org/zh_CN/latest/user/quickstart.html
+requests官方文档;
+https://requests.readthedocs.io/en/master/
+turtle官方文档
+https://docs.python.org/3/library/turtle.html
+arrow官方文档
+https://arrow.readthedocs.io/en/latest/
+pygame官方文档
+https://www.pygame.org/docs/index.html
